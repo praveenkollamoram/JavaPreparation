@@ -1,2 +1,3 @@
 # JavaPreparation
-Goal to be come ServiceNow Developer
+Goal to become ServiceNow Developer by December 2021.
+
