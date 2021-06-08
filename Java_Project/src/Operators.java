@@ -28,7 +28,9 @@ public class Operators
 		System.out.println(r5);
 		 
 		 */
-		
+		int x = 4;
+		x &= 3;
+		System.out.println(x);
 	}
 
 }
